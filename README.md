@@ -4,6 +4,13 @@
 
 ---
 
+## GitHub Pages
+
+- Sitio publicado desde `index.html` en la raíz del repositorio.
+- URL esperada: `https://feliperivasdev.github.io/DavidFelipeGustinRivas/`
+
+---
+
 ## Español
 
 ### Sobre mí
