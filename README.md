@@ -23,14 +23,14 @@ Desarrollador FullStack con 4 años de experiencia en el diseño, desarrollo e i
 ### Proyectos Destacados
 | Proyecto | Descripción | Link |
 |---|---|---|
-| Superior Hats | Plataforma E-commerce orientada a catálogo, experiencia de compra optimizada y gestión de inventario en flujo digital. | [Visitar](https://github.com/feliperivasdev?tab=repositories&q=Superior+Hats&type=&language=&sort=) |
-| Hatmakers Corner | Blog técnico/editorial con enfoque en contenido estructurado, publicación dinámica y rendimiento web. | [Visitar](https://github.com/feliperivasdev?tab=repositories&q=Hatmakers+Corner&type=&language=&sort=) |
-| Intiqara | Solución E-commerce con arquitectura FullStack para operaciones comerciales y escalabilidad de producto. | [Visitar](https://github.com/feliperivasdev?tab=repositories&q=Intiqara&type=&language=&sort=) |
-| Cargatech | Multi-API de transportadoras para integración logística en Colombia, consolidación de guías y trazabilidad de envíos. | [Visitar](https://github.com/feliperivasdev?tab=repositories&q=Cargatech&type=&language=&sort=) |
-| SIGC - Dulces y Dulces | Sistema de Gestión Comercial para control de procesos operativos, datos transaccionales y soporte a decisiones. | [Visitar](https://github.com/feliperivasdev?tab=repositories&q=SIGC&type=&language=&sort=) |
-| NeuroKids | Plataforma educativa de lectura con componentes de analítica para seguimiento del progreso académico. | [Visitar](https://github.com/feliperivasdev?tab=repositories&q=NeuroKids&type=&language=&sort=) |
-| SISDocumental | Sistema de gestión documental para organización, trazabilidad y administración centralizada de archivos. | [Visitar](https://github.com/feliperivasdev?tab=repositories&q=SISDocumental&type=&language=&sort=) |
-| Monstrico Verde | Juego interactivo para clasificación de residuos sólidos, diseñado para aprendizaje y concientización ambiental. | [Visitar](https://github.com/feliperivasdev?tab=repositories&q=Monstrico+Verde&type=&language=&sort=) |
+| Superior Hats | Plataforma E-commerce orientada a catálogo, experiencia de compra optimizada y gestión de inventario en flujo digital. | [Visitar](https://github.com/feliperivasdev/Superior-Hats) |
+| Hatmakers Corner | Blog técnico/editorial con enfoque en contenido estructurado, publicación dinámica y rendimiento web. | [Visitar](https://github.com/feliperivasdev/Hatmakers-Corner) |
+| Intiqara | Solución E-commerce con arquitectura FullStack para operaciones comerciales y escalabilidad de producto. | [Visitar](https://github.com/feliperivasdev/Intiqara) |
+| Cargatech | Multi-API de transportadoras para integración logística en Colombia, consolidación de guías y trazabilidad de envíos. | [Visitar](https://github.com/feliperivasdev/Cargatech) |
+| SIGC - Dulces y Dulces | Sistema de Gestión Comercial para control de procesos operativos, datos transaccionales y soporte a decisiones. | [Visitar](https://github.com/feliperivasdev/API_Sistema_Integral_de_Gestion_Comercial_Dulces_y_Dulces_SIGC_DD) |
+| NeuroKids | Plataforma educativa de lectura con componentes de analítica para seguimiento del progreso académico. | [Visitar](https://github.com/feliperivasdev/NeuroKids) |
+| SISDocumental | Sistema de gestión documental para organización, trazabilidad y administración centralizada de archivos. | [Visitar](https://github.com/feliperivasdev/SISDocumental) |
+| Monstrico Verde | Juego interactivo para clasificación de residuos sólidos, diseñado para aprendizaje y concientización ambiental. | [Visitar](https://github.com/feliperivasdev/Monstrico-verde-clasificador) |
 
 ### Contacto
 - 📩 Email: **gustinrivasdavid@gmail.com**
@@ -61,14 +61,14 @@ FullStack Developer with 4 years of experience delivering high-impact web soluti
 ### Featured Projects
 | Project | Description | Link |
 |---|---|---|
-| Superior Hats | E-commerce platform focused on product catalog management, optimized checkout flow, and inventory operations. | [Visit](https://github.com/feliperivasdev?tab=repositories&q=Superior+Hats&type=&language=&sort=) |
-| Hatmakers Corner | Technical/editorial blog with structured publishing workflows and performance-oriented content delivery. | [Visit](https://github.com/feliperivasdev?tab=repositories&q=Hatmakers+Corner&type=&language=&sort=) |
-| Intiqara | FullStack E-commerce solution designed for commercial operations and scalable business growth. | [Visit](https://github.com/feliperivasdev?tab=repositories&q=Intiqara&type=&language=&sort=) |
-| Cargatech | Multi-carrier API integration layer for Colombian logistics, shipment guide orchestration, and tracking traceability. | [Visit](https://github.com/feliperivasdev?tab=repositories&q=Cargatech&type=&language=&sort=) |
-| SIGC - Dulces y Dulces | Commercial Management System for operational control, transactional data handling, and decision-support reporting. | [Visit](https://github.com/feliperivasdev?tab=repositories&q=SIGC&type=&language=&sort=) |
-| NeuroKids | Reading education platform with analytics components for monitoring student progress and learning outcomes. | [Visit](https://github.com/feliperivasdev?tab=repositories&q=NeuroKids&type=&language=&sort=) |
-| SISDocumental | Document management system for centralized file administration, organization, and traceable records lifecycle. | [Visit](https://github.com/feliperivasdev?tab=repositories&q=SISDocumental&type=&language=&sort=) |
-| Monstrico Verde | Interactive game for solid-waste classification, designed to promote environmental awareness through engagement. | [Visit](https://github.com/feliperivasdev?tab=repositories&q=Monstrico+Verde&type=&language=&sort=) |
+| Superior Hats | E-commerce platform focused on product catalog management, optimized checkout flow, and inventory operations. | [Visit](https://github.com/feliperivasdev/Superior-Hats) |
+| Hatmakers Corner | Technical/editorial blog with structured publishing workflows and performance-oriented content delivery. | [Visit](https://github.com/feliperivasdev/Hatmakers-Corner) |
+| Intiqara | FullStack E-commerce solution designed for commercial operations and scalable business growth. | [Visit](https://github.com/feliperivasdev/Intiqara) |
+| Cargatech | Multi-carrier API integration layer for Colombian logistics, shipment guide orchestration, and tracking traceability. | [Visit](https://github.com/feliperivasdev/Cargatech) |
+| SIGC - Dulces y Dulces | Commercial Management System for operational control, transactional data handling, and decision-support reporting. | [Visit](https://github.com/feliperivasdev/API_Sistema_Integral_de_Gestion_Comercial_Dulces_y_Dulces_SIGC_DD) |
+| NeuroKids | Reading education platform with analytics components for monitoring student progress and learning outcomes. | [Visit](https://github.com/feliperivasdev/NeuroKids) |
+| SISDocumental | Document management system for centralized file administration, organization, and traceable records lifecycle. | [Visit](https://github.com/feliperivasdev/SISDocumental) |
+| Monstrico Verde | Interactive game for solid-waste classification, designed to promote environmental awareness through engagement. | [Visit](https://github.com/feliperivasdev/Monstrico-verde-clasificador) |
 
 ### Contact
 - 📩 Email: **gustinrivasdavid@gmail.com**
