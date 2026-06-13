@@ -7,7 +7,7 @@
 ## Español
 
 ### Sobre mí
-Desarrollador FullStack con 4 años de experiencia en el diseño, desarrollo e integración de soluciones web de alto impacto. Actualmente curso décimo semestre de Ingeniería de Sistemas en la Universidad CESMAG. Mi enfoque está orientado a resultados, calidad técnica y escalabilidad de producto en entornos corporativos.
+Desarrollador FullStack con 4 años de experiencia en el diseño, desarrollo e integración de soluciones web de alto impacto. Actualmente estoy cursando el décimo semestre de Ingeniería de Sistemas en la Universidad CESMAG. Mi enfoque está orientado a resultados, calidad técnica y escalabilidad de producto en entornos corporativos.
 
 ### Stack Tecnológico
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -21,7 +21,7 @@ Desarrollador FullStack con 4 años de experiencia en el diseño, desarrollo e i
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Proyectos Destacados
-| Proyecto | Descripción | Link |
+| Proyecto | Descripción | Enlace |
 |---|---|---|
 | Superior Hats | Plataforma E-commerce orientada a catálogo, experiencia de compra optimizada y gestión de inventario en flujo digital. | [Visitar](https://github.com/feliperivasdev/Superior-Hats) |
 | Hatmakers Corner | Blog técnico/editorial con enfoque en contenido estructurado, publicación dinámica y rendimiento web. | [Visitar](https://github.com/feliperivasdev/Hatmakers-Corner) |
@@ -59,7 +59,7 @@ FullStack Developer with 4 years of experience delivering high-impact web soluti
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Featured Projects
-| Project | Description | Link |
+| Project | Description | Repository |
 |---|---|---|
 | Superior Hats | E-commerce platform focused on product catalog management, optimized checkout flow, and inventory operations. | [Visit](https://github.com/feliperivasdev/Superior-Hats) |
 | Hatmakers Corner | Technical/editorial blog with structured publishing workflows and performance-oriented content delivery. | [Visit](https://github.com/feliperivasdev/Hatmakers-Corner) |
