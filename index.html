@@ -40,7 +40,7 @@
     gap: 0.25rem;
   }
   .lang-label { font-family: var(--mono); font-size: 10px; color: var(--muted); letter-spacing: 0.1em; margin-right: 0.75rem; }
-  .lang-btn { font-family: var(--mono); font-size: 11px; font-weight: 400; padding: 0.25rem 0.6rem; border: 1px solid transparent; background: transparent; color: var(--muted); cursor: pointer; letter-spacing: 0.05em; transition: color 0.15s, border-color 0.15s; }
+  .lang-btn { font-family: var(--mono); font-size: 11px; font-weight: 400; padding: 0.25rem 0.6rem; border: 1px solid transparent; background: transparent; color: var(--muted); cursor: pointer; letter-spacing: 0.08em; transition: all 0.2s; }
   .lang-btn:hover { color: var(--white); }
   .lang-btn.active { color: var(--copper); border-color: var(--copper); }
 
@@ -71,9 +71,9 @@
   .hero-subtitle { font-size: 15px; font-weight: 300; line-height: 1.8; color: var(--soft); max-width: 460px; }
   .hero-actions { display: flex; gap: 1rem; flex-wrap: wrap; }
 
-  .btn-primary { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.875rem 1.75rem; background: var(--copper); color: var(--white); font-family: var(--sans); font-size: 12px; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; text-decoration: none; transition: background 0.2s; }
+  .btn-primary { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.875rem 1.75rem; background: var(--copper); color: var(--white); font-family: var(--sans); font-size: 12px; font-weight: 500; letter-spacing: 0.08em; text-decoration: none; border: none; cursor: pointer; transition: background 0.2s; }
   .btn-primary:hover { background: var(--copper2); }
-  .btn-ghost { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.875rem 1.75rem; border: 1px solid var(--border); color: var(--soft); font-family: var(--sans); font-size: 12px; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; text-decoration: none; transition: border-color 0.2s, color 0.2s; }
+  .btn-ghost { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.875rem 1.75rem; border: 1px solid var(--border); color: var(--soft); font-family: var(--sans); font-size: 12px; font-weight: 500; letter-spacing: 0.08em; text-decoration: none; background: transparent; cursor: pointer; transition: all 0.2s; }
   .btn-ghost:hover { border-color: var(--soft); color: var(--white); }
 
   .hero-card { background: var(--mid); border: 1px solid var(--border); padding: 2rem; font-family: var(--mono); font-size: 12.5px; line-height: 1.9; color: var(--muted); position: relative; }
@@ -286,9 +286,9 @@
       <div class="project-footer">Angular · Node.js · MySQL</div>
     </a>
     <a href="https://intiqara.com/" target="_blank" class="project-card">
-      <div class="project-meta"><span class="project-tag">E-commerce</span><span class="project-arrow">↗</span></div>
-      <div class="project-name">Intiqara</div>
-      <div class="project-desc" data-i18n="proj_in">Robust commerce solution architected for scalable business operations, clean domain separation, and long-term product growth.</div>
+      <div class="project-meta"><span class="project-tag">E-commerce · Leather Goods</span><span class="project-arrow">↗</span></div>
+      <div class="project-name">IntiQara</div>
+      <div class="project-desc" data-i18n="proj_in">Premium 100% artisanal leather accessories brand from Pasto, Nariño. Curated collections of handcrafted bags featuring quality, style, and authentic craftsmanship.</div>
       <div class="project-footer">WordPress · WooCommerce · Blocksy</div>
     </a>
     <a href="#" target="_blank" class="project-card">
@@ -327,7 +327,7 @@
   <div class="contact-block">
     <div class="contact-left">
       <h3 class="contact-title" data-i18n="contact_h">Have a project<br>in <em>mind?</em></h3>
-      <p class="contact-body" data-i18n="contact_body">Open to full-time roles, freelance engagements, and technical collaborations. If you're building something where product quality, engineering standards, and measurable outcomes are non-negotiable — let's talk.</p>
+      <p class="contact-body" data-i18n="contact_body">Open to full-time roles, freelance engagements, and technical collaborations. If you're building something where product quality, engineering standards, and measurable outcomes matter — let's talk.</p>
       <a href="mailto:gustinrivasdavid@gmail.com" class="btn-primary" data-i18n="contact_btn">Send a message →</a>
     </div>
     <div class="contact-right">
@@ -374,14 +374,14 @@ const i18n = {
     proj_sh: "Catalog-oriented commerce platform built for a Colombian artisanal hat brand operating internationally. Features optimized checkout flows and product management.",
     proj_hc: "Technical and editorial blog platform designed for structured content publishing and performance-oriented delivery for niche craftsman audiences.",
     proj_ct: "Multi-carrier API layer for Colombian logistics. Consolidates guide generation and shipment tracking across providers into a single integration point.",
-    proj_in: "Robust commerce solution architected for scalable business operations, clean domain separation, and long-term product growth.",
+    proj_in: "Premium 100% artisanal leather accessories brand from Pasto, Nariño. Curated collections of handcrafted bags featuring quality, style, and authentic craftsmanship.",
     proj_sg: "Commercial management system covering transactional data, operational process control, and decision-support reporting for a retail business.",
     proj_nk: "Reading education platform with built-in analytics components to track student progress, learning outcomes, and engagement patterns over time.",
     proj_mv: "A gamified educational experience for second-grade students that teaches proper solid waste separation through technology and interactive play.",
     proj_sd: "Professional document management platform. Helps businesses convert physical and digital files into clear, secure systems to regain control of their information.",
     contact_title: "Work Together",
     contact_h: "Have a project<br>in <em>mind?</em>",
-    contact_body: "Open to full-time roles, freelance engagements, and technical collaborations. If you're building something where product quality, engineering standards, and measurable outcomes are non-negotiable — let's talk.",
+    contact_body: "Open to full-time roles, freelance engagements, and technical collaborations. If you're building something where product quality, engineering standards, and measurable outcomes matter — let's talk.",
     contact_btn: "Send a message →",
     location_label: "Location",
     footer_tag: "Built to ship.",
@@ -407,14 +407,14 @@ const i18n = {
     proj_sh: "Plataforma de comercio orientada a catálogo para una marca artesanal colombiana de sombreros. Cuenta con flujos de compra optimizados y gestión de productos.",
     proj_hc: "Blog técnico y editorial diseñado para la publicación de contenido estructurado y entrega orientada al rendimiento para audiencias artesanales.",
     proj_ct: "Capa de API multi-transportadora para logística colombiana. Consolida la generación de guías y el seguimiento de envíos en un solo punto de integración.",
-    proj_in: "Solución de comercio robusta, estructurada para operaciones escalables, separación limpia de dominios y crecimiento a largo plazo.",
+    proj_in: "Marca nariñense premium de accesorios 100% artesanales en cuero. Colecciones cuidadosamente seleccionadas de bolsos hechos a mano que destacan por su calidad, estilo y autenticidad.",
     proj_sg: "Sistema de gestión comercial que cubre datos transaccionales, control de procesos operativos y reportes de apoyo a decisiones.",
     proj_nk: "Plataforma de educación lectora con componentes de analítica integrados para seguimiento de progreso estudiantil y resultados de aprendizaje.",
     proj_mv: "Una experiencia educativa gamificada para estudiantes de segundo grado que enseña la correcta separación de residuos sólidos a través del juego.",
     proj_sd: "Plataforma profesional de gestión documental. Convertimos archivos físicos y digitales en sistemas claros y seguros para recuperar el control de la información.",
     contact_title: "Trabajemos Juntos",
     contact_h: "¿Tienes un proyecto<br>en <em>mente?</em>",
-    contact_body: "Disponible para roles de tiempo completo, proyectos freelance y colaboraciones técnicas. Si estás construyendo algo donde la calidad del producto, los estándares de ingeniería y los resultados medibles son innegociables — hablemos.",
+    contact_body: "Disponible para roles de tiempo completo, proyectos freelance y colaboraciones técnicas. Si estás construyendo algo donde la calidad del producto, los estándares de ingeniería y los resultados medibles importan — hablemos.",
     contact_btn: "Enviar mensaje →",
     location_label: "Ubicación",
     footer_tag: "Construido para entregar.",
@@ -440,14 +440,14 @@ const i18n = {
     proj_sh: "Plataforma de comércio orientada a catálogo para uma marca artesanal colombiana de chapéus. Possui fluxos de checkout otimizados e gerenciamento de produtos.",
     proj_hc: "Plataforma de blog técnico e editorial projetada para publicação de conteúdo estruturado e entrega orientada ao desempenho.",
     proj_ct: "Camada de API multi-transportadora para logística colombiana. Consolida geração de guias e rastreamento de envios em um único ponto.",
-    proj_in: "Solução robusta de comércio estruturada para operações escaláveis, separação limpa de domínios e crescimento a longo prazo.",
+    proj_in: "Marca narinhense premium de acessórios 100% artesanais em couro. Coleções cuidadosamente selecionadas de bolsas feitas à mão que se destacam por qualidade, estilo e autenticidade.",
     proj_sg: "Sistema de gestão comercial cobrindo dados transacionais, controle de processos operacionais e relatórios de suporte a decisões.",
     proj_nk: "Plataforma de educação em leitura com componentes de análise integrados para acompanhamento do progresso dos alunos.",
     proj_mv: "Uma experiência educacional gamificada para alunos da segunda série que ensina a separação correta de resíduos sólidos através de jogos interativos.",
     proj_sd: "Plataforma profissional de gestão de documentos. Ajudamos a converter arquivos físicos e digitais em sistemas claros e seguros.",
     contact_title: "Trabalhe Comigo",
     contact_h: "Tem um projeto<br>em <em>mente?</em>",
-    contact_body: "Aberto a cargos de tempo integral, projetos freelance e colaborações técnicas. Se você está construindo algo onde qualidade de produto, padrões de engenharia e resultados mensuráveis são inegociáveis — vamos conversar.",
+    contact_body: "Aberto a cargos de tempo integral, projetos freelance e colaborações técnicas. Se você está construindo algo onde qualidade de produto, padrões de engenharia e resultados mensuráveis importam — vamos conversar.",
     contact_btn: "Enviar mensagem →",
     location_label: "Localização",
     footer_tag: "Construído para entregar.",
@@ -473,14 +473,14 @@ const i18n = {
     proj_sh: "Plateforme de commerce orientée catalogue pour une marque artisanale colombienne de chapeaux. Flux de paiement optimisés et gestion des produits.",
     proj_hc: "Plateforme de blog technique et éditorial conçue pour la publication de contenu structuré et une livraison orientée performance.",
     proj_ct: "Couche d'API multi-transporteur pour la logistique colombienne. Consolide la génération de guides et le suivi des envois en un seul point.",
-    proj_in: "Solution de commerce robuste, structurée pour des opérations scalables, une séparation claire des domaines et une croissance à long terme.",
+    proj_in: "Marque premium de Nariño spécialisée dans les accessoires 100% artisanaux en cuir. Collections soigneusement sélectionnées de sacs faits à la main qui se distinguent par leur qualité, style et authenticité.",
     proj_sg: "Système de gestion commerciale couvrant les données transactionnelles, le contrôle des processus opérationnels et les rapports d'aide à la décision.",
     proj_nk: "Plateforme d'éducation à la lecture avec des composants d'analyse intégrés pour suivre la progression des élèves.",
     proj_mv: "Une expérience éducative ludique pour les élèves de CE1 qui enseigne le tri correct des déchets solides grâce à la technologie.",
     proj_sd: "Plateforme professionnelle de gestion documentaire. Convertit les fichiers physiques et numériques en systèmes clairs et sécurisés.",
     contact_title: "Travaillons Ensemble",
     contact_h: "Vous avez un projet<br>en <em>tête ?</em>",
-    contact_body: "Ouvert aux postes à temps plein, aux missions freelance et aux collaborations techniques. Si vous construisez quelque chose où la qualité, les standards d'ingénierie et les résultats mesurables sont non négociables — parlons-en.",
+    contact_body: "Ouvert aux postes à temps plein, aux missions freelance et aux collaborations techniques. Si vous construisez quelque chose où la qualité, les standards d'ingénierie et les résultats mesurables comptent — parlons-en.",
     contact_btn: "Envoyer un message →",
     location_label: "Localisation",
     footer_tag: "Construit pour livrer.",
@@ -506,14 +506,14 @@ const i18n = {
     proj_sh: "Katalogbasierte Commerce-Plattform für eine kolumbianische Hutmacher-Marke. Optimierte Checkout-Flows und Produktmanagement.",
     proj_hc: "Technischer und redaktioneller Blog für strukturierte Inhaltspublikation und leistungsorientierte Auslieferung.",
     proj_ct: "Multi-Carrier-API-Schicht für kolumbianische Logistik. Konsolidiert Lieferscheinerstellung und Sendungsverfolgung an einem Punkt.",
-    proj_in: "Robuste E-Commerce-Lösung für skalierbare Geschäftsabläufe, saubere Domänentrennung und langfristiges Wachstum.",
+    proj_in: "Premium-Marke aus Nariño spezialisiert auf 100% handwerkliche Lederzubehör. Sorgfältig kuratierte Kollektion handgefertigter Taschen, die sich durch Qualität, Stil und Authentizität auszeichnen.",
     proj_sg: "Kaufmännisches Verwaltungssystem für transaktionale Daten, Prozesskontrolle und Entscheidungsunterstützung.",
     proj_nk: "Bildungsplattform für Lesekompetenz mit integrierten Analysekomponenten zur Verfolgung von Schülerfortschritten.",
     proj_mv: "Ein spielerisches Lernerlebnis für Zweitklässler, das durch Technologie die richtige Mülltrennung vermittelt.",
     proj_sd: "Professionelle Dokumentenmanagement-Plattform. Wandelt physische und digitale Dateien in klare, sichere Systeme um.",
     contact_title: "Zusammenarbeiten",
     contact_h: "Haben Sie ein Projekt<br><em>im Sinn?</em>",
-    contact_body: "Offen für Vollzeitstellen, Freelance-Projekte und technische Kooperationen. Wenn Sie etwas aufbauen, bei dem Produktqualität, Ingenieursstandards und messbare Ergebnisse nicht verhandelbar sind — lassen Sie uns reden.",
+    contact_body: "Offen für Vollzeitstellen, Freelance-Projekte und technische Kooperationen. Wenn Sie etwas aufbauen, bei dem Produktqualität, Ingenieursstandards und messbare Ergebnisse zählen — lassen Sie uns sprechen.",
     contact_btn: "Nachricht senden →",
     location_label: "Standort",
     footer_tag: "Gebaut um zu liefern.",
@@ -539,7 +539,7 @@ const i18n = {
     proj_sh: "为哥伦比亚手工帽品牌打造的电商平台。具备优化的结账流程和产品管理功能。",
     proj_hc: "技术与编辑博客平台，专为结构化内容发布和高性能内容分发而设计。",
     proj_ct: "哥伦比亚物流多承运商API层，在单一接入点整合面单生成与货物追踪。",
-    proj_in: "强大的电商解决方案，架构设计面向可扩展业务运营、清晰领域分离与长期产品增长。",
+    proj_in: "纳里尼奥地区高端品牌，专业生产100%手工制作皮制配饰。精心甄选的手工皮包系列，以其卓越的品质、精致的风格和真正的工艺工人精神脱颖而出。",
     proj_sg: "商业管理系统，覆盖交易数据、运营流程控制及决策支持报表。",
     proj_nk: "阅读教育平台，内置分析组件，追踪学生学习进度与学习成果。",
     proj_mv: "为二年级学生设计的游戏化教育体验，通过技术和互动游戏教授正确的固体废物分类。",
@@ -572,14 +572,14 @@ const i18n = {
     proj_sh: "コロンビアの帽子ブランド向けカタログ型ECプラットフォーム。最適化されたチェックアウトと商品管理機能。",
     proj_hc: "構造化コンテンツの公開と高パフォーマンス配信のために設計された技術・編集ブログ。",
     proj_ct: "コロンビア物流向けマルチキャリアAPIレイヤー。配送ガイド生成と荷物追跡を一元化。",
-    proj_in: "スケーラブルなビジネス運営と長期的な製品成長を見据えた堅牢なECソリューション。",
+    proj_in: "ナリーニョ発の高級ブランドで、100%手作りレザーアクセサリーを専門とします。精選された手作りバッグコレクション。素晴らしい品質、スタイル、本物の職人技で際立っています。",
     proj_sg: "トランザクションデータ管理、業務プロセス制御、意思決定支援レポートを網羅した商業管理システム。",
     proj_nk: "学習進捗と学習成果を追跡する分析コンポーネント内蔵の読書教育プラットフォーム。",
     proj_mv: "テクノロジーとゲームを通じて正しいゴミの分別を教える、小学2年生向けのゲーミフィケーション教育体験。",
     proj_sd: "プロフェッショナルな文書管理プラットフォーム。物理・デジタルファイルを安全なシステムに変換し、情報の管理を取り戻します。",
     contact_title: "一緒に働きましょう",
     contact_h: "プロジェクトの<br><em>ご相談は？</em>",
-    contact_body: "フルタイム、フリーランス、技術協力など幅広く対応可能です。製品品質、エンジニアリング基準、測定可能な成果を重視されているなら、ぜひご連絡ください。",
+    contact_body: "フルタイム、フリーランス、技術協力など幅広く対応可能です。製品品質、エンジニアリング基準、測定可能な成果を重視されているプロジェクトなら — 話し合いましょう。",
     contact_btn: "メッセージを送る →",
     location_label: "所在地",
     footer_tag: "出荷のために作られた。",
