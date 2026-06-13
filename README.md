@@ -38,7 +38,7 @@ Desarrollador FullStack con 4 años de experiencia en el diseño, desarrollo e i
 
 **¿Tienes una oferta laboral o propuesta de colaboración?** Estoy disponible para contribuir en proyectos FullStack con enfoque en impacto de negocio y excelencia técnica.
 
-**Desarrollado por David Gustin Rivas | Ver Perfil Profesional**
+**Desarrollado por David Gustin Rivas | [Ver Perfil Profesional](https://github.com/feliperivasdev)**
 
 ---
 
@@ -76,4 +76,4 @@ FullStack Developer with 4 years of experience delivering high-impact web soluti
 
 **Looking for a FullStack professional for a role or collaboration?** I am open to opportunities where product quality, engineering standards, and measurable outcomes are key.
 
-**Developed by David Gustin Rivas | View Professional Profile**
+**Developed by David Gustin Rivas | [View Professional Profile](https://github.com/feliperivasdev)**
