@@ -23,9 +23,9 @@ Desarrollador FullStack con 4 años de experiencia en el diseño, desarrollo e i
 ### Proyectos Destacados
 | Proyecto | Descripción | Enlace |
 |---|---|---|
-| Superior Hats | Plataforma E-commerce orientada a catálogo, experiencia de compra optimizada y gestión de inventario en flujo digital. | [Visitar](https://github.com/feliperivasdev/Superior-Hats) |
+| Superior Hats | Plataforma e-commerce orientada a catálogo, experiencia de compra optimizada y gestión de inventario en flujo digital. | [Visitar](https://github.com/feliperivasdev/Superior-Hats) |
 | Hatmakers Corner | Blog técnico/editorial con enfoque en contenido estructurado, publicación dinámica y rendimiento web. | [Visitar](https://github.com/feliperivasdev/Hatmakers-Corner) |
-| Intiqara | Solución E-commerce con arquitectura FullStack para operaciones comerciales y escalabilidad de producto. | [Visitar](https://github.com/feliperivasdev/Intiqara) |
+| Intiqara | Solución e-commerce con arquitectura FullStack para operaciones comerciales y escalabilidad de producto. | [Visitar](https://github.com/feliperivasdev/Intiqara) |
 | Cargatech | Multi-API de transportadoras para integración logística en Colombia, consolidación de guías y trazabilidad de envíos. | [Visitar](https://github.com/feliperivasdev/Cargatech) |
 | SIGC - Dulces y Dulces | Sistema de Gestión Comercial para control de procesos operativos, datos transaccionales y soporte a decisiones. | [Visitar](https://github.com/feliperivasdev/API_Sistema_Integral_de_Gestion_Comercial_Dulces_y_Dulces_SIGC_DD) |
 | NeuroKids | Plataforma educativa de lectura con componentes de analítica para seguimiento del progreso académico. | [Visitar](https://github.com/feliperivasdev/NeuroKids) |
@@ -61,9 +61,9 @@ FullStack Developer with 4 years of experience delivering high-impact web soluti
 ### Featured Projects
 | Project | Description | Repository |
 |---|---|---|
-| Superior Hats | E-commerce platform focused on product catalog management, optimized checkout flow, and inventory operations. | [Visit](https://github.com/feliperivasdev/Superior-Hats) |
+| Superior Hats | e-commerce platform focused on product catalog management, optimized checkout flow, and inventory operations. | [Visit](https://github.com/feliperivasdev/Superior-Hats) |
 | Hatmakers Corner | Technical/editorial blog with structured publishing workflows and performance-oriented content delivery. | [Visit](https://github.com/feliperivasdev/Hatmakers-Corner) |
-| Intiqara | FullStack E-commerce solution designed for commercial operations and scalable business growth. | [Visit](https://github.com/feliperivasdev/Intiqara) |
+| Intiqara | FullStack e-commerce solution designed for commercial operations and scalable business growth. | [Visit](https://github.com/feliperivasdev/Intiqara) |
 | Cargatech | Multi-carrier API integration layer for Colombian logistics, shipment guide orchestration, and tracking traceability. | [Visit](https://github.com/feliperivasdev/Cargatech) |
 | SIGC - Dulces y Dulces | Commercial Management System for operational control, transactional data handling, and decision-support reporting. | [Visit](https://github.com/feliperivasdev/API_Sistema_Integral_de_Gestion_Comercial_Dulces_y_Dulces_SIGC_DD) |
 | NeuroKids | Reading education platform with analytics components for monitoring student progress and learning outcomes. | [Visit](https://github.com/feliperivasdev/NeuroKids) |
