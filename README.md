@@ -1,5 +1,5 @@
 # David Felipe Gustin Rivas
-## FullStack Developer | Systems Engineering Student
+## FullStack Developer | Systems Engineering
 [Español](#español) | [English](#english)
 
 ---
